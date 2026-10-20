@@ -1,0 +1,1 @@
+document.querySelector('.tg').onclick=function(){document.querySelector('.menu').classList.toggle('on')};
